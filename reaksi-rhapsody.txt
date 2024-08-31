@@ -2,5 +2,3 @@ Memahami kimia dengan melodi pengetahuan
 - kuis interaktif
 - real-time result and rank
 - bisa buat kuis baru, modifikasi, hapus
-- belum ada user auth
-- belum ada untuk mapel lain
