@@ -4,4 +4,4 @@ Memahami kimia dengan melodi pengetahuan
 - bisa buat kuis baru, modifikasi, hapus
 - tambahkan pos-pos error
 - tambahkan framework javascript
-
+- tambah framework laravel
