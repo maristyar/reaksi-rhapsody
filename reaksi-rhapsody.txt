@@ -2,4 +2,5 @@ Memahami kimia dengan melodi pengetahuan
 - kuis interaktif
 - real-time result and rank
 - bisa buat kuis baru, modifikasi, hapus
-- tambahkan pos-pos error
+- tambah code igniter
+- tambah react 
