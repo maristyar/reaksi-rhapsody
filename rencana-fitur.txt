@@ -1,3 +1,4 @@
 Rencana fitur
 - ubah nama ke clash of champions
 - tambah user auth
+- perbaiki ui/ux
